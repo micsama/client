@@ -1,0 +1,11 @@
+*.dll
+*.so
+*.exe
+/tmp
+/tmp/*
+client
+server
+/static/layui/
+/static/layui/*
+nohup.out
+config
